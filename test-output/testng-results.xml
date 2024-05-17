@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-20T15:59:08 IST" name="Suite" finished-at="2024-03-20T15:59:12 IST" duration-ms="4929">
+    <groups>
+    </groups>
+    <test started-at="2024-03-20T15:59:08 IST" name="Test" finished-at="2024-03-20T15:59:12 IST" duration-ms="4929">
+      <class name="Day3.deleteRequest">
+        <test-method signature="deletRecords(org.testng.ITestContext)[pri:0, instance:Day3.deleteRequest@6e171cd7]" started-at="2024-03-20T15:59:11 IST" name="deletRecords" finished-at="2024-03-20T15:59:12 IST" duration-ms="1070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@131ef10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletRecords -->
+      </class> <!-- Day3.deleteRequest -->
+      <class name="Day3.getRequest">
+        <test-method signature="getRecord(org.testng.ITestContext)[pri:0, instance:Day3.getRequest@498d318c]" started-at="2024-03-20T15:59:10 IST" name="getRecord" finished-at="2024-03-20T15:59:11 IST" duration-ms="1156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@131ef10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRecord -->
+      </class> <!-- Day3.getRequest -->
+      <class name="Day3.postRequestStore">
+        <test-method signature="addOrder(org.testng.ITestContext)[pri:0, instance:Day3.postRequestStore@5f058f00]" started-at="2024-03-20T15:59:08 IST" name="addOrder" finished-at="2024-03-20T15:59:10 IST" duration-ms="2659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@131ef10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addOrder -->
+      </class> <!-- Day3.postRequestStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
